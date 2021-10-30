@@ -79,7 +79,6 @@ from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn import tree
-from sklearn.neighbors import KNeighborsClassifier
 
 iris = load_iris()
 
@@ -88,7 +87,7 @@ y = iris.target
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.5)
 
-#1
+#1 Decision Tree Classifier
 treeClassifier = tree.DecisionTreeClassifier()
 treeClassifier.fit(X_train, y_train)
 
@@ -97,16 +96,7 @@ treePrediction = treeClassifier.predict(X_test)
 print('Accuracy using a Decision Tree')
 print(accuracy_score(y_test, treePrediction))
 
-#2
-neighborClassifier = KNeighborsClassifier()
-neighborClassifier.fit(X_train, y_train)
-
-neighborPrediction = neighborClassifier.predict(X_test)
-
-print('Accuracy using K Nearest Neighbor')
-print(accuracy_score(y_test, neighborPrediction))
-
-#3
+#2 K-Nearest Neighbors Classifier
 personalClassifier = personalKNN()
 personalClassifier.fit(X_train, y_train)
 
@@ -115,7 +105,7 @@ personalPrediction = personalClassifier.predict(X_test)
 print('Accuracy using my own K Nearest Neighbor Model')
 print(accuracy_score(y_test, personalPrediction))
 
-#4
+#3 K-Means Classifier
 personalMeanClassifier = personalKMean()
 personalMeanClassifier.fit(X_train)
 
