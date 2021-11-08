@@ -14,15 +14,6 @@ scratch in the future as I can easily import a library with it.
 I've been able to fully understand the workings of several machine learning
 models and I am continuing to further my understanding of machine learning.
 
-## Screenshots
-
-#### This heat map shows the correlation between all the features in the student grade dataset.
-![Correlation Heat Map](https://github.com/wriggs12/Machine-Learning-Practice/blob/main/Images/HeatMap.PNG)
-
-#### This scatter plot is showing the iris flower dataset. It is clear when displaying the data that a person would struggle when classifying these flowers.
-![Scatter Plot](https://github.com/wriggs12/Machine-Learning-Practice/blob/main/Images/ScatterPlot.PNG)
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
