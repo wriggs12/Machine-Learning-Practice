@@ -16,10 +16,11 @@ models and I am continuing to further my understanding of machine learning.
 
 ## Screenshots
 
+#### This heat map shows the correlation between all the features in the student grade dataset.
 ![Correlation Heat Map](https://github.com/wriggs12/Machine-Learning-Practice/blob/main/Images/HeatMap.PNG)
-This heat map shows the correlation between all the features in the student grade dataset.
+
+#### This scatter plot is showing the iris flower dataset. It is clear when displaying the data that a person would struggle when classifying these flowers.
 ![Scatter Plot](https://github.com/wriggs12/Machine-Learning-Practice/blob/main/Images/ScatterPlot.PNG)
-This scatter plot is showing the iris flower dataset. It is clear when displaying the data that a person would struggle when classifying these flowers.
 
 
 ## License
