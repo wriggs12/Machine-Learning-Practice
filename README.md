@@ -1,5 +1,16 @@
+<h1 align="center">Machine Learning Practice</h1>
 
-# Machine Learning Projects
+<p align="center">
+  <a href="https://github.com/wriggs12/Huffman-Data-Compressor/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/wriggs12/Huffman-Data-Compressor" alt="MIT License">
+  </a>
+  <a href="https://github.com/wriggs12">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wriggs12?style=social">
+  </a>
+  <a href="https://github.com/wriggs12">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wriggs12/Machine-Learning-Practice">
+  </a>
+</p>
 
 I wanted to learn machine learning so I decided to learn by doing. 
 Currently adding new models from scratch as I learn about them. 
@@ -16,11 +27,7 @@ scratch in the future as I can easily import it from a library.
 
 I've been able to fully understand the workings of several machine learning
 models and I am continuing to furthur my understanding of machine learning.
-## Badges
 
-![GitHub last commit](https://img.shields.io/github/last-commit/wriggs12/Machine-Learning-Practice)
-
-![GitHub followers](https://img.shields.io/github/followers/wriggs12?style=social)
 ## Authors
 
 - [@winston riggs](https://github.com/wriggs12)
