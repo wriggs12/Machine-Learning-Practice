@@ -11,8 +11,8 @@ Models.
 
 I've learned that machine learning is mostly formatting and 
 standardizing the data and optimizing models rather than building 
-the models. Also, I'd probabaly never build my own model from 
-scratch in the future as I can easily import a library with it.
+the models. I'd probabaly never build my own model from 
+scratch in the future as I can easily import it from a library.
 
 I've been able to fully understand the workings of several machine learning
 models and I am continuing to furthur my understanding of machine learning.
